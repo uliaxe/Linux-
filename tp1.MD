@@ -10,7 +10,7 @@
 
 ## solution 1
 
-➜ Première solution : 
+➜ Première solution :
 
 ``` cd .. ```
 Pour aller a la racine du dossier
@@ -28,7 +28,7 @@ Pour voir les fichiers
 Pour supprimer le dossier security
 
 ``` reboot ```
-Pour redémarrer la vm 
+Pour redémarrer la vm
 
 Nous venons alors de casser toutes les sessions y compris le root. Nous ne pouvons plus nous connecter à la vm.
 
@@ -60,4 +60,4 @@ Création d'une tâche répétée qui va éteindre la machine toutes les minutes
 
 ➜ Solution ultime :
 
-[solution ultime](https://media.giphy.com/media/M0uovGNKWdlIQABDRY/giphy-downsized-large.gif)
+[solution ultime](giphy.gif)
