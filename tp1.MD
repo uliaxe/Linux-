@@ -60,4 +60,4 @@ Création d'une tâche répétée qui va éteindre la machine toutes les minutes
 
 ➜ Solution ultime :
 
-[giphy.gif](src/tp1/giphy.gif)
+![giphy.gif](giphy.gif)
