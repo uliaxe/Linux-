@@ -1,7 +1,6 @@
 # Partie 1 : Mise en place et maîtrise du serveur Web
 
 ---
-
 ### 1. Installation
 
 🌞 **Installer le serveur Apache**
@@ -243,6 +242,3 @@ tcp    LISTEN     0      511     *:8080                *:*                   use
 ```
 10.105.1.11:8080
 ```
-
-
-
