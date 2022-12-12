@@ -1,6 +1,4 @@
-# TP5 : Self-hosted cloud
-
-## Partie 1 : Mise en place et maîtrise du serveur Web
+# Partie 1 : Mise en place et maîtrise du serveur Web
 
 ---
 
@@ -242,5 +240,9 @@ tcp    LISTEN     0      511     *:8080                *:*                   use
 
 - vérifiez avec votre navigateur que vous pouvez joindre le serveur sur le nouveau port
 
+```
 10.105.1.11:8080
+```
+
+
 
