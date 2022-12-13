@@ -1,7 +1,6 @@
 # Partie 1 : Mise en place et maîtrise du serveur Web
 
----
-### 1. Installation
+## 1. Installation
 
 🌞 **Installer le serveur Apache**
 
@@ -138,7 +137,6 @@ drwxr-xr-x. 81 root root 4096 Dec 12 16:13 ..
 -rw-r--r--. 1 root root 7620 Jul 27 20.05 index.html
 ```
 
-
 🌞 **Changer l'utilisateur utilisé par Apache**
 
 - créez un nouvel utilisateur
@@ -214,8 +212,6 @@ success
 [root@web ~] #systemctl restart httpd
 ```
 
-
-
 - prouvez avec une commande `ss` que Apache tourne bien sur le nouveau port choisi
 
 ```bash
@@ -239,6 +235,4 @@ tcp    LISTEN     0      511     *:8080                *:*                   use
 
 - vérifiez avec votre navigateur que vous pouvez joindre le serveur sur le nouveau port
 
-```
 10.105.1.11:8080
-```
